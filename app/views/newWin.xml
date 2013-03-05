@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+        <LeftNavButton platform="!android">
+            <Button id="leftNavButton" onClick="leftNavButtonClicked"></Button>
+        </LeftNavButton>
+	</Window>
+</Alloy>

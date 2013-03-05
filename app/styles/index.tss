@@ -1,0 +1,5 @@
+"#win": {
+	backgroundColor:"white", 
+	title: "Win 1", 
+	barImage: '/barImage.png'
+}

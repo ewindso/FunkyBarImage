@@ -1,0 +1,12 @@
+<Alloy>
+	<Window>
+		<NavigationGroup id="navGroup" platform="ios">
+			<Window id="win">
+		        <LeftNavButton platform="!android">
+		            <Button id="leftNavButton"></Button>
+		        </LeftNavButton>
+				<Button id="openNewWin" onClick="openNewWin">Open New Win</Button>
+			</Window>
+		</NavigationGroup>
+	</Window>
+</Alloy>
